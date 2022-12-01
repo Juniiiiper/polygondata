@@ -1,6 +1,6 @@
 {
-  "Moderators" = {1, 2};
-  "Trainee" = {1, 2};
-  "Game Mechanics" = {1, 2};
-  "Admin" = {107778329}
+  ["Moderators"] = {1, 2},
+  ["Trainee"] = {1, 2},
+  ["Game Mechanics"] = {1, 2},
+  ["Admin"] = {107778329}
 }
