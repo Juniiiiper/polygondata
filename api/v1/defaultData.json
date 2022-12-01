@@ -3,7 +3,7 @@
 	Tickets = 0;
 	XP = 1;
 	Items = {
-		AC = false;
+		AC = true;
 		Duck = false;
 	};
 	Icons = {
