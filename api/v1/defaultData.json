@@ -1,0 +1,15 @@
+{
+  "Player",
+	{
+		Credits = 250;
+		Tickets = 0;
+		XP = 1;
+		Items = {
+			AC = false;
+			Duck = false;
+		};
+		Icons = {
+			Pride = false;
+		};
+	}
+}
